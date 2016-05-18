@@ -1,7 +1,7 @@
 ZBX-JUNIPER-FWCounter
 ==============
 
-This template uses the SNMP to discover via LLD FWCounters on JunOS devices.
+This template uses the SNMP to discover via LLD FWCounters on JunOS devices, that are support JUNIPER-FIREWALL-MIB.
 
 
 Items
